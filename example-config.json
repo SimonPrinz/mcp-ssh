@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ssh-server": {
+      "command": "node",
+      "args": ["/path/to/your/mcp-ssh/build/index.js"],
+      "disabled": false,
+      "alwaysAllow": [],
+      "disabledTools": []
+    }
+  }
+}
